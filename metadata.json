@@ -1,0 +1,6 @@
+{
+  "name": "KURA Anime Streetwear",
+  "description": "Boutique exclusive de hoodies anime oversize haut de gamme en coton lourd 450 GSM et sérigraphies artistiques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
